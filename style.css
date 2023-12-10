@@ -1,0 +1,13 @@
+html{
+    font-family: sans-serif;
+}
+
+form div{
+    padding: 4px;
+}
+
+form button{
+    border-radius: 5px;
+    background-color: aquamarine;
+    font-weight: bold;
+}
